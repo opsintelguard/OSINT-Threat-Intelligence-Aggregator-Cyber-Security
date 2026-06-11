@@ -26,7 +26,8 @@ It combines multiple intelligence sources with automated workflows to deliver **
 
 ## 🏗️ Architecture Overview
 
-![Architecture](./images/architecture.png)
+<img width="1755" height="665" alt="OSINT and Threat Intelligence Aggregator" src="https://github.com/user-attachments/assets/a1b25f12-f28b-462f-9a00-918c8bcb7c9e" />
+
 
 ---
 
